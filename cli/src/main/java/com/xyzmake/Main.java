@@ -1,4 +1,4 @@
-package com.helloworld;
+package com.xyzmake;
 
 public class Main {
     public static void main(String[] args) {

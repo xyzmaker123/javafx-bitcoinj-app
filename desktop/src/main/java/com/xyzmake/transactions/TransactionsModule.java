@@ -1,4 +1,4 @@
-package com.helloworld.transactions;
+package com.xyzmake.transactions;
 
 import com.google.inject.AbstractModule;
 

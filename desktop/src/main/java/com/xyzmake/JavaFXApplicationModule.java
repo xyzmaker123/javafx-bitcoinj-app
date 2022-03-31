@@ -1,7 +1,7 @@
-package com.helloworld;
+package com.xyzmake;
 
 import com.google.inject.AbstractModule;
-import com.helloworld.transactions.TransactionsModule;
+import com.xyzmake.transactions.TransactionsModule;
 
 public class JavaFXApplicationModule extends AbstractModule {
 

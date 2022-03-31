@@ -28,5 +28,5 @@ dependencies {
 }
 
 application {
-    mainClass = 'com.helloworld.Main'
+    mainClass = 'com.xyzmake.Main'
 }

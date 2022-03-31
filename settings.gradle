@@ -7,7 +7,7 @@
  * in the user manual at https://docs.gradle.org/7.3.2/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'javafx-helloworld'
+rootProject.name = 'javafx-bitcoinj-app'
 include 'desktop'
 include 'cli'
 
