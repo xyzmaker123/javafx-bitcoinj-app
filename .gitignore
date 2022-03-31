@@ -7,3 +7,6 @@ build
 
 # Intellij IDEA stuff
 .idea
+
+# Other
+.localnet
